@@ -6,7 +6,7 @@
 
 <br>
 
-Informatics Student &nbsp;&nbsp; | &nbsp;&nbsp; Indonesia
+Informatics Student &nbsp;&nbsp; | &nbsp;&nbsp; Indonesia  | &nbsp;&nbsp; Writer
 
 <br>
 
