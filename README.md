@@ -1,17 +1,30 @@
 <div align="center">
 
-### 𝖓𝖎𝖘𝖐𝖆𝖑𝖆.𝖗𝖎𝖓𝖉𝖚 || 𝖏𝖊𝖏𝖆𝖐 𝖆𝖐𝖘𝖆𝖗𝖆 ⪼
+### ║ 𝖏𝖊𝖏𝖆𝖐 𝖆𝖐𝖘𝖆𝖗𝖆 ⪼
 
-✦ ────── ⋆⋅☆⋅⋆ ────── ✦
+‎
 
-# 𝙰𝚗𝚝𝚊𝚛𝚊 𝚋𝚊𝚛𝚒𝚜 𝚔𝚘𝚍𝚎 𝚍𝚊𝚗 𝚓𝚎𝚓𝚊𝚔 𝚊𝚔𝚜𝚊𝚛𝚊, 𝚊𝚔𝚞 𝚋𝚎𝚕𝚊𝚓𝚊𝚛 𝚋𝚎𝚛𝚝𝚞𝚖𝚋𝚞𝚑.
+━━━━━━━━━━━━━━━━━━━━
 
+## Antara baris kode dan jejak aksara,
+
+## aku belajar bertumbuh.
+
+‎
+
+Informatics Student    |    Indonesia
+
+Writer under the pen name
+
+### *Niskala Rindu*
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+
+### CONNECT WITH ME
 
 <a href="https://www.instagram.com/latif.az_?igsh=emtxdzdoZzRpZjRx">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -21,20 +34,27 @@
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
----
-
-## 🪶 Interests
-
-* Creative Writing
-* Literature
-* Information Technology
-* Data Analytics
-* Storytelling
+</div>
 
 ---
 
-## ✨ Favorite Quote
+<div align="center">
 
-> "Jalani, nikmati dan syukuri; karena hidup itu sebuah perjalanan bukan perlombaan."
+### LIFE MOTTO
+
+*"Jalani, nikmati, dan syukuri;
+karena hidup itu sebuah perjalanan, bukan perlombaan."*
+
+</div>
+
+---
+
+<div align="center">
+
+━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━
+
+### 𝒴𝑜𝓊 𝒹𝑜𝓃’𝓉 𝓀𝓃𝑜𝓌 𝓂𝑒.
+
+### 𝒯𝒽𝒶𝓉’𝓈 𝑒𝓃𝑜𝓊𝑔𝒽.
 
 </div>
