@@ -1,27 +1,15 @@
-<h1 align="center">Hi 👋, I'm Latifatus</h1>
+<div align="center">
 
-<h3 align="center">
-Informatics Student from Indonesia 🇮🇩 <br>
-Writer under the pen name <i>Niskala Rindu</i> ✍️
-</h3>
+# 𝒴𝑜𝓊 𝒹𝑜𝓃’𝓉 𝓀𝓃𝑜𝓌 𝓂𝑒. 𝒯𝒽𝒶𝓉’𝓈 𝑒𝓃𝑜𝓊𝑔𝒽.
 
-<p align="center">
-"Some stories are not meant to be forgotten, only written."
-</p>
+✦ ────── ⋆⋅☆⋅⋆ ────── ✦
 
----
+### 𝖓𝖎𝖘𝖐𝖆𝖑𝖆.𝖗𝖎𝖓𝖉𝖚 || 𝖏𝖊𝖏𝖆𝖐 𝖆𝖐𝖘𝖆𝖗𝖆 ⪼
 
-## 🌸 About Me
+> *"jalani, nikmati dan syukuri;*
+> *karena hidup itu sebuah perjalanan bukan perlombaan."*
 
-🎓 Informatics Student
-
-📍 Indonesia
-
-✍️ Passionate about writing and storytelling
-
-📖 Writing under the pen name **Niskala Rindu**
-
-🌱 Always learning, creating, and growing every day
+</div>
 
 ---
 
@@ -37,24 +25,18 @@ Writer under the pen name <i>Niskala Rindu</i> ✍️
 
 ---
 
-## 💻 Interests
+## 🪶 Interests
 
-* Information Technology
 * Creative Writing
 * Literature
+* Information Technology
 * Data Analytics
-* Web Development
+* Storytelling
 
 ---
 
 ## ✨ Favorite Quote
 
-> "Every wound becomes a story, and every story deserves a place to be remembered."
+> "Jalani, nikmati dan syukuri; karena hidup itu sebuah perjalanan bukan perlombaan."
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifatus\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latifatus\&layout=compact\&theme=tokyonight)
+</div>
