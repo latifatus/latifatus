@@ -2,13 +2,15 @@
 
 # 𝖏𝖊𝖏𝖆𝖐 𝖆𝖐𝖘𝖆𝖗𝖆 ⪼
 
-━━━━━━━━━━━━━━━━━━━━
+<hr width="35%">
 
 ## Antara baris kode dan jejak aksara, aku belajar bertumbuh.
 
-‎
+<br>
 
-Informatics Student    |    Indonesia
+Informatics Student &nbsp;&nbsp; | &nbsp;&nbsp; Indonesia
+
+<br>
 
 Writer under the pen name
 
@@ -20,7 +22,9 @@ Writer under the pen name
 
 <div align="center">
 
-### CONNECT WITH ME
+## CONNECT WITH ME
+
+<br>
 
 <a href="https://www.instagram.com/latif.az_?igsh=emtxdzdoZzRpZjRx">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -36,10 +40,11 @@ Writer under the pen name
 
 <div align="center">
 
-### LIFE MOTTO
+## LIFE MOTTO
 
-*"Jalani, nikmati, dan syukuri;
-karena hidup itu sebuah perjalanan, bukan perlombaan."*
+<br>
+
+*"Jalani, nikmati, dan syukuri; karena hidup itu sebuah perjalanan, bukan perlombaan."*
 
 </div>
 
@@ -47,10 +52,12 @@ karena hidup itu sebuah perjalanan, bukan perlombaan."*
 
 <div align="center">
 
-━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━
+━━━━━━━━━━ ✦ ━━━━━━━━━━
 
-### 𝒴𝑜𝓊 𝒹𝑜𝓃’𝓉 𝓀𝓃𝑜𝓌 𝓂𝑒.
+<br>
 
-### 𝒯𝒽𝒶𝓉’𝓈 𝑒𝓃𝑜𝓊𝑔𝒽.
+### *You don't know me.*
+
+### *That's enough.*
 
 </div>
