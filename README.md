@@ -2,7 +2,6 @@
 
 # 𝖏𝖊𝖏𝖆𝖐 𝖆𝖐𝖘𝖆𝖗𝖆 ⪼
 
-<hr width="35%">
 
 ### Antara baris kode dan jejak aksara, aku belajar bertumbuh.
 
@@ -53,8 +52,6 @@ Informatics Student &nbsp;&nbsp; | &nbsp;&nbsp; Indonesia &nbsp;&nbsp; | &nbsp;&
 <br>
 
 <sub><i>You don't know me.</i></sub>
-
-<br>
 
 <sub><i>That's enough.</i></sub>
 
