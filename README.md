@@ -2,17 +2,17 @@
 
 # 𝖏𝖊𝖏𝖆𝖐 𝖆𝖐𝖘𝖆𝖗𝖆 ⪼
 
-## Antara baris kode dan jejak aksara, aku belajar bertumbuh.
+<hr width="35%">
+
+### Antara baris kode dan jejak aksara, aku belajar bertumbuh.
 
 <br>
 
-Informatics Student &nbsp;&nbsp; | &nbsp;&nbsp; Indonesia  | &nbsp;&nbsp; Writer
+Informatics Student &nbsp;&nbsp; | &nbsp;&nbsp; Indonesia &nbsp;&nbsp; | &nbsp;&nbsp; Writer
 
 <br>
 
-Writer under the pen name
-
-### *Niskala Rindu*
+*𝖓𝖎𝖘𝖐𝖆𝖑𝖆.𝖗𝖎𝖓𝖉𝖚*
 
 </div>
 
@@ -40,9 +40,7 @@ Writer under the pen name
 
 ## LIFE MOTTO
 
-<br>
-
-*"Jalani, nikmati, dan syukuri; karena hidup itu sebuah perjalanan, bukan perlombaan."*
+### *"Jalani, nikmati, dan syukuri; karena hidup itu sebuah perjalanan, bukan perlombaan."*
 
 </div>
 
@@ -50,12 +48,14 @@ Writer under the pen name
 
 <div align="center">
 
-━━━━━━━━━━ ✦ ━━━━━━━━━━
+────────── ✦ ──────────
 
 <br>
 
-### *You don't know me.*
+<sub><i>You don't know me.</i></sub>
 
-### *That's enough.*
+<br>
+
+<sub><i>That's enough.</i></sub>
 
 </div>
