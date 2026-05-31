@@ -4,9 +4,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 
-## Antara baris kode dan jejak aksara,
-
-## aku belajar bertumbuh.
+## Antara baris kode dan jejak aksara, aku belajar bertumbuh.
 
 ‎
 
