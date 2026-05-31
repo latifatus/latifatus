@@ -2,8 +2,6 @@
 
 # 𝖏𝖊𝖏𝖆𝖐 𝖆𝖐𝖘𝖆𝖗𝖆 ⪼
 
-<hr width="35%">
-
 ## Antara baris kode dan jejak aksara, aku belajar bertumbuh.
 
 <br>
